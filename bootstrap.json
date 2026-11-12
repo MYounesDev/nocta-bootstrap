@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
   "download_url": "https://api.nocta.myounes.dev/downloads/nocta-client-1.1.0.zip",
-  "signature": "sha256:ae6685ff12682bcd6ee569f9f54726c11a37e460beb22a8dd42bbbba0a981971",
+  "signature": "sha256:81cdccd4fab1982a7f2855deb43a089a03e434e23a61b3842b9c5adaf3d24d1e",
   "api_base_url": "https://api.nocta.myounes.dev/api/v1",
   "ws_base_url": "wss://api.nocta.myounes.dev/ws/v1"
 }
